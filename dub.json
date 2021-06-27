@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Krzysiek"
+	],
+	"copyright": "Copyright © 2021, Krzysiek",
+	"dependencies": {
+		"jwt": "~>0.4.0",
+		"mysql-native": "~>3.0.2",
+		"vibe-d": "~>0.9.3"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "projekt",
+	"targetType": "executable"
+}
