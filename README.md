@@ -3,7 +3,7 @@
 ## Features
 * OAuth2 Google login
 * JWT based authorization
-* PayPal peyments
+* PayPal payments
 * MySQL databse
 * Docker
 
